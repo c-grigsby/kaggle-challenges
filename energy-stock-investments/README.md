@@ -16,3 +16,7 @@
   </a>
 
 </div>
+
+## Source Code
+
+- ### [EDA (Exploratory Data Analysis)](notebooks/energy-stock-investments.ipynb)

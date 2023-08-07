@@ -6,9 +6,9 @@
 
 A collection of data science and machine learning Kaggle challenges
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
+<img src="images/powered-by-overtime.svg"/>
+<img src="images/made-with-python.svg"/>
+<img src="images/built-with-science.svg"/>
 
 </div>
 

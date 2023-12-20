@@ -1,0 +1,6 @@
+EnergyStock,Year,CalculatedCorrelation,CorrelationCoeff,RollingWindow
+Dominion Energy,2014-2019,Volatility and Avg Daily Trading Volume,0.3996295642566361,20 days
+Duke Energy,2014-2019,Volatility and Avg Daily Trading Volume,0.6237442738018212,20 days
+Exelon Energy,2014-2019,Volatility and Avg Daily Trading Volume,0.7269083097437925,20 days
+NextEra Energy,2014-2019,Volatility and Avg Daily Trading Volume,0.7113679440897306,20 days
+Southern Co. Energy,2014-2019,Volatility and Avg Daily Trading Volume,0.5707697344713974,20 days
